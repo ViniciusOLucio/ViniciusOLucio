@@ -11,7 +11,9 @@
 ###
 
 <h3 align="left">Get in Touch</h3>
+###
 
+<br clear="both">
 ###
 
 <p align="left">✉ reach me:  <a href="mailto:vinicius.olucio@gmail.com" target="_blank">vinicius.olucio@gmail.com</a></p>
