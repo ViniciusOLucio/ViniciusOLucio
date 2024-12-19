@@ -10,10 +10,8 @@
 
 ###
 
-<h3 align="left">Get in Touch</h3>
-###
+<h2 align="left">Get in Touch</h2>
 
-<br clear="both">
 ###
 
 <p align="left">✉ reach me:  <a href="mailto:vinicius.olucio@gmail.com" target="_blank">vinicius.olucio@gmail.com</a></p>
