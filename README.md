@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✉ reach me: vinicius.olucio@gmail.com</p>
+<p align="left">✉ reach me:  <a href="mailto:vinicius.olucio@gmail.com" target="_blank">vinicius.olucio@gmail.com</a></p>
 
 ###
 
