@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✉ reach me:  <a href="mailto:vinicius.olucio@gmail.com" target="_blank">vinicius.olucio@gmail.com</a></p>
+<p align="left">✉ reach me:  <a href="mailto:vinicius.olucio@gmail.com" target="_blank">vinicius.olucio@gmail.com</a> <br> or: whatsapp: <a href="https://wa.me/5519993843063?text=Ol%C3%A1%20Vinicius!"> (19) 99384-3063</a></p>
 
 ###
 
