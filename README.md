@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">🚩 I'm a Junior Developer with experience in PHP.<br>🛠 Currently, I'm learning to work with the Laravel framework.<br>🌐 I have experience with Technical SEO and PageSpeed.</p>
+<p align="left">🚩 I'm a Junior Developer with experience in PHP.<br>🛠 Currently, I'm learning to work with the Laravel framework.<br>🌐 I have experience with Technical SEO and PageSpeed. <br>
+my portfolio <a href="https://viniciuslucio.com.br"> </a> </p>
 
 ###
 
